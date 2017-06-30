@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1C21A6D9CEFDB75F3E7384471E7F3544E86972D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "11AAF2C1CE6B7CF58F4C85973DD8712E66ED817F" : 9223372036854775807,
+    "1C21A6D9CEFDB75F3E7384471E7F3544E86972D3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C095AD6E-651B-432F-A9EA-E1CC3379619F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "11AAF2C1CE6B7CF58F4C85973DD8712E66ED817F" : "..",
+    "1C21A6D9CEFDB75F3E7384471E7F3544E86972D3" : "PhoneNumberKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PhoneNumberKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PhoneNumberKit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vanics\/Flashh.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "11AAF2C1CE6B7CF58F4C85973DD8712E66ED817F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vanics\/PhoneNumberKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1C21A6D9CEFDB75F3E7384471E7F3544E86972D3"
+    }
+  ]
+}
